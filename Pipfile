@@ -22,3 +22,4 @@ plotly = "*"
 e1839a8 = {path = ".", editable = true}
 dash = "*"
 gunicorn = "*"
+pandas = "*"
